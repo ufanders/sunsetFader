@@ -35,5 +35,5 @@ eagle.epf
 
 *.eps
 
-/build/
+build/
 

@@ -1,0 +1,9 @@
+_sendShort: CODE, 600 0 44
+_main: CODE, 492 0 58
+_paintSunset: CODE, 126 0 148
+_high_isr: CODE, 8 0 114
+__initialization: CODE, 550 0 44
+___lwdiv: CODE, 274 0 82
+_send_LED: CODE, 356 0 72
+_InitializeHardware: CODE, 428 0 64
+Total: 626
