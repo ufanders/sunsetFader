@@ -11,7 +11,7 @@
 # All addresses and the length are given in unqualified hexadecimal
 # in delta units.  Any other numeric values are decimal.
 %PSECTS
-$/tmp/cgtzwp7cS.obj
+$/tmp/cgtp6577O.obj
 end_init CODE 0 7A 7A 4 1
 reset_vec CODE 0 0 0 4 1
 idloc IDLOC 0 200000 200000 8 1
@@ -142,32 +142,32 @@ $dist/default/production/sunsetFader.X.production.obj
 "/Users/ufanders/Documents/GitHub/sunsetFader/firmware/main.c":122 214 text0 CODE
 "/Users/ufanders/Documents/GitHub/sunsetFader/firmware/main.c":124 218 text0 CODE
 "/Users/ufanders/Documents/GitHub/sunsetFader/firmware/main.c":125 222 text0 CODE
-"/tmp/cgtePUwiT":1125 226 cinit CODE
-"/tmp/cgtePUwiT":1127 226 cinit CODE
-"/tmp/cgtePUwiT":1130 226 cinit CODE
-"/tmp/cgtePUwiT":1159 226 cinit CODE
-"/tmp/cgtePUwiT":1160 22A cinit CODE
-"/tmp/cgtePUwiT":1161 22C cinit CODE
-"/tmp/cgtePUwiT":1162 22C cinit CODE
-"/tmp/cgtePUwiT":1163 22E cinit CODE
-"/tmp/cgtePUwiT":1164 230 cinit CODE
-"/tmp/cgtePUwiT":1169 232 cinit CODE
-"/tmp/cgtePUwiT":1170 234 cinit CODE
-"/tmp/cgtePUwiT":1171 236 cinit CODE
-"/tmp/cgtePUwiT":1172 238 cinit CODE
-"/tmp/cgtePUwiT":1173 23A cinit CODE
-"/tmp/cgtePUwiT":1174 23C cinit CODE
-"/tmp/cgtePUwiT":1175 23E cinit CODE
-"/tmp/cgtePUwiT":1176 242 cinit CODE
-"/tmp/cgtePUwiT":1177 246 cinit CODE
-"/tmp/cgtePUwiT":1178 246 cinit CODE
-"/tmp/cgtePUwiT":1179 248 cinit CODE
-"/tmp/cgtePUwiT":1180 24C cinit CODE
-"/tmp/cgtePUwiT":1181 24E cinit CODE
-"/tmp/cgtePUwiT":1182 250 cinit CODE
-"/tmp/cgtePUwiT":1188 252 cinit CODE
-"/tmp/cgtePUwiT":1189 252 cinit CODE
-"/tmp/cgtePUwiT":1190 254 cinit CODE
+"/tmp/cgtwx1Q7N":1125 226 cinit CODE
+"/tmp/cgtwx1Q7N":1127 226 cinit CODE
+"/tmp/cgtwx1Q7N":1130 226 cinit CODE
+"/tmp/cgtwx1Q7N":1159 226 cinit CODE
+"/tmp/cgtwx1Q7N":1160 22A cinit CODE
+"/tmp/cgtwx1Q7N":1161 22C cinit CODE
+"/tmp/cgtwx1Q7N":1162 22C cinit CODE
+"/tmp/cgtwx1Q7N":1163 22E cinit CODE
+"/tmp/cgtwx1Q7N":1164 230 cinit CODE
+"/tmp/cgtwx1Q7N":1169 232 cinit CODE
+"/tmp/cgtwx1Q7N":1170 234 cinit CODE
+"/tmp/cgtwx1Q7N":1171 236 cinit CODE
+"/tmp/cgtwx1Q7N":1172 238 cinit CODE
+"/tmp/cgtwx1Q7N":1173 23A cinit CODE
+"/tmp/cgtwx1Q7N":1174 23C cinit CODE
+"/tmp/cgtwx1Q7N":1175 23E cinit CODE
+"/tmp/cgtwx1Q7N":1176 242 cinit CODE
+"/tmp/cgtwx1Q7N":1177 246 cinit CODE
+"/tmp/cgtwx1Q7N":1178 246 cinit CODE
+"/tmp/cgtwx1Q7N":1179 248 cinit CODE
+"/tmp/cgtwx1Q7N":1180 24C cinit CODE
+"/tmp/cgtwx1Q7N":1181 24E cinit CODE
+"/tmp/cgtwx1Q7N":1182 250 cinit CODE
+"/tmp/cgtwx1Q7N":1188 252 cinit CODE
+"/tmp/cgtwx1Q7N":1189 252 cinit CODE
+"/tmp/cgtwx1Q7N":1190 254 cinit CODE
 "/Users/ufanders/Documents/GitHub/sunsetFader/firmware/main.c":195 258 text3 CODE
 "/Users/ufanders/Documents/GitHub/sunsetFader/firmware/main.c":199 258 text3 CODE
 "/Users/ufanders/Documents/GitHub/sunsetFader/firmware/main.c":200 264 text3 CODE
@@ -206,8 +206,8 @@ __CFG_WDTPS$256 0 0 ABS 0 - dist/default/production/sunsetFader.X.production.obj
 _WPUB F7C 0 ABS 0 - dist/default/production/sunsetFader.X.production.obj
 _RCON FD0 0 ABS 0 - dist/default/production/sunsetFader.X.production.obj
 _main 1EC 0 CODE 0 text0 dist/default/production/sunsetFader.X.production.obj
-___sp 0 0 STACK 2 stack /tmp/cgtzwp7cS.obj
-start 7A 0 CODE 0 init /tmp/cgtzwp7cS.obj
+___sp 0 0 STACK 2 stack /tmp/cgtp6577O.obj
+start 7A 0 CODE 0 init /tmp/cgtp6577O.obj
 paintSunset@paletteIndex 40 0 COMRAM 1 cstackCOMRAM dist/default/production/sunsetFader.X.production.obj
 _TMR0H FD7 0 ABS 0 - dist/default/production/sunsetFader.X.production.obj
 _TMR0L FD6 0 ABS 0 - dist/default/production/sunsetFader.X.production.obj
@@ -270,10 +270,10 @@ __LnvFARRAM 0 0 FARRAM 0 nvFARRAM dist/default/production/sunsetFader.X.producti
 __end_of_sendShort 284 0 CODE 0 text3 dist/default/production/sunsetFader.X.production.obj
 __Hdata 0 0 ABS 0 data dist/default/production/sunsetFader.X.production.obj
 __Ldata 0 0 ABS 0 data dist/default/production/sunsetFader.X.production.obj
-stackhi 5FF 0 ABS 0 - /tmp/cgtzwp7cS.obj
+stackhi 5FF 0 ABS 0 - /tmp/cgtp6577O.obj
 __Htemp 0 0 COMRAM 1 temp dist/default/production/sunsetFader.X.production.obj
 __Ltemp 0 0 COMRAM 1 temp dist/default/production/sunsetFader.X.production.obj
-stacklo 60 0 ABS 0 - /tmp/cgtzwp7cS.obj
+stacklo 60 0 ABS 0 - /tmp/cgtp6577O.obj
 __Hrbit 0 0 COMRAM 1 rbit dist/default/production/sunsetFader.X.production.obj
 __Lrbit 0 0 COMRAM 1 rbit dist/default/production/sunsetFader.X.production.obj
 __Hinit 7A 0 CODE 0 init dist/default/production/sunsetFader.X.production.obj
@@ -371,8 +371,8 @@ __Lnvbit 0 0 COMRAM 1 nvbit dist/default/production/sunsetFader.X.production.obj
 __Hcinit 0 0 ABS 0 cinit dist/default/production/sunsetFader.X.production.obj
 __Lcinit 0 0 ABS 0 cinit dist/default/production/sunsetFader.X.production.obj
 __pcinit 226 0 CODE 0 cinit dist/default/production/sunsetFader.X.production.obj
-__ramtop 600 0 RAM 0 ramtop /tmp/cgtzwp7cS.obj
-__mediumconst 0 0 MEDIUMCONST 0 mediumconst /tmp/cgtzwp7cS.obj
+__ramtop 600 0 RAM 0 ramtop /tmp/cgtp6577O.obj
+__mediumconst 0 0 MEDIUMCONST 0 mediumconst /tmp/cgtp6577O.obj
 ___lwdiv 112 0 CODE 0 text4 dist/default/production/sunsetFader.X.production.obj
 __size_of_main 0 0 ABS 0 - dist/default/production/sunsetFader.X.production.obj
 __Hconst 0 0 CODE 0 const dist/default/production/sunsetFader.X.production.obj
@@ -384,12 +384,12 @@ __CFG_PWRT$ON 0 0 ABS 0 - dist/default/production/sunsetFader.X.production.obj
 _ADCON0bits FC2 0 ABS 0 - dist/default/production/sunsetFader.X.production.obj
 _ADCON1bits FC1 0 ABS 0 - dist/default/production/sunsetFader.X.production.obj
 _ADCON2bits FC0 0 ABS 0 - dist/default/production/sunsetFader.X.production.obj
-___inthi_sp 0 0 STACK 2 stack /tmp/cgtzwp7cS.obj
+___inthi_sp 0 0 STACK 2 stack /tmp/cgtp6577O.obj
 __size_of_sendShort 0 0 ABS 0 - dist/default/production/sunsetFader.X.production.obj
 __CFG_BOREN$OFF 0 0 ABS 0 - dist/default/production/sunsetFader.X.production.obj
 __CFG_WDTEN$OFF 0 0 ABS 0 - dist/default/production/sunsetFader.X.production.obj
 __size_of_paintSunset 0 0 ABS 0 - dist/default/production/sunsetFader.X.production.obj
-___intlo_sp 0 0 STACK 2 stack /tmp/cgtzwp7cS.obj
+___intlo_sp 0 0 STACK 2 stack /tmp/cgtp6577O.obj
 _OSCCONbits FD3 0 ABS 0 - dist/default/production/sunsetFader.X.production.obj
 _INTCONbits FF2 0 ABS 0 - dist/default/production/sunsetFader.X.production.obj
 sendShort@shortToSend 33 0 COMRAM 1 cstackCOMRAM dist/default/production/sunsetFader.X.production.obj
@@ -402,17 +402,17 @@ ___lwdiv@divisor 35 0 COMRAM 1 cstackCOMRAM dist/default/production/sunsetFader.
 __pidataCOMRAM 284 0 CODE 0 idataCOMRAM dist/default/production/sunsetFader.X.production.obj
 _send_LED 164 0 CODE 0 text2 dist/default/production/sunsetFader.X.production.obj
 __CFG_CP0$OFF 0 0 ABS 0 - dist/default/production/sunsetFader.X.production.obj
-__smallconst 0 0 SMALLCONST 0 smallconst /tmp/cgtzwp7cS.obj
+__smallconst 0 0 SMALLCONST 0 smallconst /tmp/cgtp6577O.obj
 __CFG_CP1$OFF 0 0 ABS 0 - dist/default/production/sunsetFader.X.production.obj
 __Hreset_vec 4 0 CODE 0 reset_vec dist/default/production/sunsetFader.X.production.obj
 __Lreset_vec 0 0 CODE 0 reset_vec dist/default/production/sunsetFader.X.production.obj
-__accesstop 60 0 ABS 0 - /tmp/cgtzwp7cS.obj
+__accesstop 60 0 ABS 0 - /tmp/cgtp6577O.obj
 __Hintcode_body 0 0 ABS 0 intcode_body dist/default/production/sunsetFader.X.production.obj
 __Lintcode_body 0 0 ABS 0 intcode_body dist/default/production/sunsetFader.X.production.obj
-intlevel0 0 0 CODE 0 text /tmp/cgtzwp7cS.obj
-intlevel1 0 0 CODE 0 text /tmp/cgtzwp7cS.obj
-intlevel2 0 0 CODE 0 text /tmp/cgtzwp7cS.obj
-intlevel3 0 0 CODE 0 text /tmp/cgtzwp7cS.obj
+intlevel0 0 0 CODE 0 text /tmp/cgtp6577O.obj
+intlevel1 0 0 CODE 0 text /tmp/cgtp6577O.obj
+intlevel2 0 0 CODE 0 text /tmp/cgtp6577O.obj
+intlevel3 0 0 CODE 0 text /tmp/cgtp6577O.obj
 __HdataCOMRAM 0 0 ABS 0 dataCOMRAM dist/default/production/sunsetFader.X.production.obj
 __LdataCOMRAM 0 0 ABS 0 dataCOMRAM dist/default/production/sunsetFader.X.production.obj
 __pdataCOMRAM 1 0 COMRAM 1 dataCOMRAM dist/default/production/sunsetFader.X.production.obj
